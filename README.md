@@ -6,7 +6,7 @@
 
 | - | Rotation 4 | Rotation 5 | Rotation 6 |
 | --- | --- | --- | --- |
-| image |![Rotation4](https://i.ytimg.com/vi/w6DYyOJQPZw/hq720.jpg)|![Cover](https://i.ytimg.com/vi/5liLE_MSLzg/hq720.jpg)  | <img src="https://goldmedalsquared.com/wp-content/uploads/2023/08/904873_41ada3750a9c4b918d5633e5a5158e4cmv2.jpg" alt="image" width="300" height="450">|
+| image |![Rotation4](https://i.ytimg.com/vi/w6DYyOJQPZw/hq720.jpg)|![Rotation5](https://i.ytimg.com/vi/5liLE_MSLzg/hq720.jpg)  |<img src="https://i.ytimg.com/vi/yowWICVExWI/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2rYqR_cGC-fh9w3xawv8HVugTTw" alt="Cover" style="width: 150%; height: 150%;"> This column is kind of small, please zoom the picture.| 
 | example | ![image](https://goldmedalsquared.com/wp-content/uploads/2023/08/904873_9f2ed596820c43058163c75691876ef1mv2-768x432.jpg)  | ![image](https://goldmedalsquared.com/wp-content/uploads/2023/08/904873_060ab802d1894a13a2795d775d3b44d3mv2-768x432.jpg)  | ![image](https://goldmedalsquared.com/wp-content/uploads/2023/08/904873_41566fa7477b45959f40c1f723620989mv2-768x432.jpg)   |
 
 
